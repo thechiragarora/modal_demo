@@ -1,0 +1,27 @@
+.ui.modal>.header {
+    border-bottom: 0;
+}
+.ui.modal>.content>.image+.description{
+    padding-left: 4em;
+    width: 100%;
+}
+.ui.modal>.image.content{
+    margin-bottom: 7em;
+}
+.modal p {
+    margin-top: 1em;
+}
+.ui {
+    font-family: 'Nunito Sans' !important;
+}
+.ui.warning.message{
+    color: black;
+}
+
+.page1pcolor{
+    color: grey;
+}
+
+/* .ui.button.disabled{
+    background-color: grey;
+} */
