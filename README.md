@@ -7,3 +7,4 @@ This is to demo modal corresponding to wireframe - [Link](https://www.figma.com/
 * npm i
 * npm start
 
+codesandbox [link](https://codesandbox.io/s/still-wildflower-stoel?file=/src/App.js)
